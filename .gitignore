@@ -1,0 +1,11 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#Vim :
+
+*.cpp~
+*.un~
+*.swp
+*.exe
