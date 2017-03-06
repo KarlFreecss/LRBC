@@ -30,8 +30,8 @@ finished
 
 ## Codeforces #403 
 ###clw
-Div1 BCD  
-Div2 ABDEF  
+Div1 CD  
+Div2 ABEF  
 ###znw
 Div1 ABCD  
 Div2 ABCDEF  
