@@ -51,7 +51,7 @@ map <F5> :call Run()<CR>
 func! Run()
     exec "w"
     exec "!g++ -std=c++11 % -g -o %<.exe"
-    exec "!%<.exe < %<.txt > %<.out"
+    exec "!%<.exe < %<.in > %<.out"
 	exec "vsp %<.out"
 endfunc
 
