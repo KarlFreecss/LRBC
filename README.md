@@ -23,7 +23,7 @@ E
 ###znw
 E  
 ###ztl
-E  
+finished  
 ###Solution
 [Solution] [CCPC2016-Hangzhou-solution]
 [CCPC2016-Hangzhou-solution]: http://ruinshe.moe/2016/10/30/ccpc2016-hangzhou-solutions/  "Solution"
