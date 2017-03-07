@@ -6,7 +6,6 @@ using namespace std;
 
 const int MAXN = 1e3+3;
 map<string, int> team;
-map<string, int> nameCount;
 vector<vector<string> > name;
 string firstOpt[MAXN];
 string secondOpt[MAXN];
@@ -32,6 +31,7 @@ int match(int t){
 
 int work(){
 	if (scanf("%d", &n) != 1) return 0;
+	map<string, int> nameCount;
 	for (int i = 1; i <= n; ++i) {
 		string name, town;
 		cin >> name >> town;
@@ -39,6 +39,7 @@ int work(){
 		secondOpt[i] = name.substr(0,2) + town.substr(0,1);
 		++nameCount[firstOpt[i]];
 	}
+	team.clear();
 	name.clear();
 	for (int i = 1; i <= n; ++i) {
 		vector<string> tName;
