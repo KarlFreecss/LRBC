@@ -31,7 +31,7 @@ finished
 ## Codeforces #403 
 ###clw
 Div1 D  
-Div2 ABF  
+Div2 BF  
 ###znw
 Div1 ABCD  
 Div2 ABCDEF  
