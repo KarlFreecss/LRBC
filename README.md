@@ -3,7 +3,7 @@ san ben jiu ba wu
 
 ###CCPC2016-Heifei
 ###clw
-hdu5970
+finished
 ###znw
 hdu5970
 ###ztl
