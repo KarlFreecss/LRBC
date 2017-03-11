@@ -7,7 +7,7 @@ hdu5970
 ###znw
 hdu5970
 ###ztl
-hdu5970
+finished
 
 ## CCPC2016-Changchun
 ###clw
