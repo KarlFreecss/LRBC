@@ -11,11 +11,11 @@ hdu5971
 
 ## CCPC2016-Changchun
 ###clw
-hdu5919 hdu5921
+hdu5919
 ###znw
-hdu5919 hdu5921
+hdu5919
 ###ztl
-hdu5921
+finished
 
 ## CCPC2016-Hangzhou
 ###clw
