@@ -36,5 +36,4 @@ Div2 F
 Div1 ABCD  
 Div2 ABCDEF  
 ###ztl
-Div1 CD  
-Div2 EF  
+finished
