@@ -3,11 +3,11 @@ san ben jiu ba wu
 
 ###CCPC2016-Heifei
 ###clw
-hdu5971
+hdu5970
 ###znw
-hdu5971
+hdu5970
 ###ztl
-hdu5971
+hdu5970
 
 ## CCPC2016-Changchun
 ###clw
