@@ -1,13 +1,6 @@
 # LaoRuoBingCan
 san ben jiu ba wu
 
-###CCPC2016-Heifei
-###clw
-finished
-###znw
-finished
-###ztl
-finished
 ## CCPC2016-Changchun
 ###clw
 hdu5919
