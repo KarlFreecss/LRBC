@@ -5,10 +5,9 @@ san ben jiu ba wu
 ###clw
 finished
 ###znw
-hdu5970
+finished
 ###ztl
 finished
-
 ## CCPC2016-Changchun
 ###clw
 hdu5919
@@ -21,7 +20,7 @@ finished
 ###clw
 E  
 ###znw
-E  
+finished
 ###ztl
 finished  
 ###Solution
@@ -32,7 +31,7 @@ finished
 ###clw
 finished  
 ###znw
-Div1 ABCD  
-Div2 ABCDEF  
+Div1 ~~ABC~~ D  
+Div2 AB ~~CDE~~ F  
 ###ztl
 finished
