@@ -20,15 +20,6 @@ finished
 [Solution] [CCPC2016-Hangzhou-solution]
 [CCPC2016-Hangzhou-solution]: http://ruinshe.moe/2016/10/30/ccpc2016-hangzhou-solutions/  "Solution"
 
-## Codeforces #403 
-###clw
-finished  
-###znw
-Div1 ~~ABC~~ D  
-Div2 AB ~~CDE~~ F  
-###ztl
-finished
-
 ## CCPC2015-Nanyang
 ###clw
 hdu5544 hdu5545
