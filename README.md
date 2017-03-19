@@ -30,7 +30,7 @@ finished
 
 ## CF404
 ###clw
-ABCDE
+DE
 ###znw
 ABCDE
 ###ztl
