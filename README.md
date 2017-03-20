@@ -53,8 +53,19 @@ DE
 
 ### znw
 
-ABCDE
+E
 
 ### ztl
-
 ABCDE
+ 
+### Solution
+[CF404-solution](http://codeforces.com/blog/entry/50996)
+
+## CF405
+
+### clw
+div1 AB  
+div2 ABCDE
+
+### Solution
+[CF405-solution](http://codeforces.com/blog/entry/51068)
