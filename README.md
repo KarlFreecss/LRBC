@@ -65,7 +65,7 @@ ABCDE
 
 ### clw
 div1 AB  
-div2 ABCDE
+div2 ABCD
 
 ### Solution
 [CF405-solution](http://codeforces.com/blog/entry/51068)
