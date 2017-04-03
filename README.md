@@ -40,9 +40,9 @@ div2 D
 ## CF406
 ###clw
 div1 C  
-div2 E
+div2 E  
 ###znw
 div1 ABC  
 div2 CDE  
 ###ztl
-div1 BC 
+div1 BC  
