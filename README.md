@@ -38,13 +38,13 @@ div2 D
 [CF405-solution](http://codeforces.com/blog/entry/51068)
 
 ## CF406
-###clw
+### clw
 div1 C  
 div2 E
-###znw
+### znw
 div1 ABC  
-div2 ABCDE
-###ztl
+div2 CDE
+### ztl
 div1 BC
 
 ## CF407
