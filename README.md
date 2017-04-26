@@ -43,7 +43,7 @@ div1 C
 div2 E
 ###znw
 div1 ABC  
-div2 CDE
+div2 ABCDE
 ###ztl
 div1 BC
 
