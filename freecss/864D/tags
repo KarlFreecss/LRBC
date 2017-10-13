@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAXN	864D.cpp	/^const int MAXN = 202005;$/;"	v
+a	864D.cpp	/^int a[MAXN];$/;"	v
+b	864D.cpp	/^int b[MAXN];$/;"	v
+main	864D.cpp	/^int main(){$/;"	f
+mu	864D.cpp	/^int mu[MAXN];$/;"	v
+n	864D.cpp	/^int n;$/;"	v
