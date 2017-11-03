@@ -1,0 +1,66 @@
+2
+a b
+a 1
+import b
+b 1
+import a
+
+4
+a b c d
+a 1
+import b
+b 1
+import c
+c 1
+import d
+d 1
+import a
+
+5
+classa classb myfilec execd libe
+classa 2
+import classb
+import myfilec, libe
+classb 1
+import execd
+myfilec 1
+import libe
+execd 1
+import libe, classa
+libe 0
+4
+a b c d
+a 1
+import d, b, c
+b 2
+import d
+import c
+c 1
+import c
+d 0
+
+5
+classa classb myfilec execd libe
+classa 2
+import classb
+import myfilec, libe
+classb 1
+import execd
+myfilec 1
+import libe
+execd 1
+import libe
+libe 0
+
+5
+classa classb myfilec execd libe
+classa 2
+import classb
+import myfilec, libe
+classb 1
+import execd
+myfilec 1
+import libe
+execd 1
+import libe, classa
+libe 0
