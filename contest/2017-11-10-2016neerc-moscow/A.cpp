@@ -1,0 +1,44 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define siz(x) ((int)(x).size())
+#define all(x) (x).begin(),(x).end()
+#define foreach(it,a) for(__typeof((a).begin()) it=(a).begin();it!=(a).end();it++)
+#define rep(i,a,b) for (int i=(a),_ed=(b);i<_ed;i++)
+#define per(i,a,b) for (int i=(b)-1,_ed=(a);i>=_ed;i--)
+#define pb push_back
+#define fi first 
+#define se second 
+#define mk(a,b)  make_pair((a), (b))
+
+typedef long long ll;
+typedef unsigned long long ull;
+typedef pair<int,int> pii;
+
+int main() {
+#ifndef ONLINE_JUDGE
+//  freopen("A.in","r",stdin);
+#endif
+  int n;
+  scanf("%d", &n);
+  int val = -1e9 - 1;
+  int index = 0;
+  for (int i = 1; i <= n; i ++) {
+    int tmp;
+    scanf("%d", &tmp);
+    if (tmp > val) {
+      val = tmp;
+      index = i;
+    }
+  }
+  int x = index - 1;
+  if (x < 1) x += n;
+  int y = index + 1;
+  if (y > n) y -= n;
+  printf("%d %d %d\n", x, index, y);
+//  cout<<"time: "<<(ll)clock()*1000/CLOCKS_PER_SEC<<" ms"<<endl;
+
+  return 0;
+}
+
